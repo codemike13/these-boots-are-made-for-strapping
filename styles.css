@@ -1,0 +1,27 @@
+.rectangle {
+  display:grid;
+  background-color: orange;
+  border: 3px solid green; 
+  color: blue;
+  font-size: 3em;
+  text-align: center;
+  justify-content:center;
+}
+
+img {
+    width:100%;
+    height: 100%;
+    /* width: 150px;
+    height: 10px; */
+    border:solid 1px black
+}
+.lg{
+   object-fit:contain;
+     
+}
+
+.picrow{
+    
+    max-height: 200px;
+    max-width:200px
+}
